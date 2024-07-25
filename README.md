@@ -65,4 +65,5 @@ python app.py
 - Server will run at http://127.0.0.1:5000/
 
 ## Demo
-Watch the demo [here]([https://drive.google.com/file/d/12Cgl9u-WAJZ6WitrPgH20t5J1ookzMSS/view?usp=sharing](https://drive.google.com/file/d/1Vx2xGbF1ksbAapOBQQ3oKGuJEzg4g86-/view?usp=sharing))
+Watch the demo here: (https://drive.google.com/file/d/1Vx2xGbF1ksbAapOBQQ3oKGuJEzg4g86-/view?usp=sharing)
+
